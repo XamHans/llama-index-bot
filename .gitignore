@@ -40,5 +40,4 @@ test_*.py
 
 
 #env
-
 .env
