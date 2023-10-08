@@ -61,8 +61,8 @@ def init_openai():
 def build_ui():
     global chat_engine
     st.set_page_config(
-        page_title="Do you need help with your onboarding? Ask me!",
-        page_icon=":books:",
+        page_title="Your personal cloud assistence",
+        page_icon=":clouds:",
     )
 
     # Initialize the chat messages history
